@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="toolbarTitleColor" format="color"></attr>
+    <attr name="toolbarMenuIcon" format="color"></attr>
+    <attr name="toolbarTitleSize" format="dimension"></attr>
+</resources>
